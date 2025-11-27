@@ -15,7 +15,7 @@
 
 ## tech stack
 **Languages:** Python, Java, JavaScript, HTML/CSS, SQL, C++, Verilog 
-**Currently Learning:** C++, React
+**Currently Learning:** C++, React 
 **Tools:** REST APIs, Google Workspace, Microsoft 365  
 **Certifications:** Microsoft Azure Fundamentals  
 
