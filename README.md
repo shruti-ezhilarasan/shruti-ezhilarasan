@@ -26,4 +26,4 @@
 
 ## projects
 **Personalized Travel Planner**  
--A web app using REST APIs + NoSQL to generate custom itineraries
+- A web app using REST APIs + NoSQL to generate custom itineraries
