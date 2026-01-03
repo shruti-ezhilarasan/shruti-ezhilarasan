@@ -1,8 +1,9 @@
-# hi, i'm shruti
+# hi, i'm Shruti 👋
 
-🎓 Computer Engineering @ Texas A&M University '28  
-🧠 Passionate about tech, community, and using code for good  
-📍 Based in Houston, TX 
+🎓 computer engineering @ texas a&m university '28  
+🏠 based in houston, tx
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile-url](http://www.linkedin.com/in/shruti-ezhilarasan-a049b8238))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutiezhil@tamu.edu)
 
 ---
 
