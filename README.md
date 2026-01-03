@@ -3,12 +3,13 @@
 🎓 computer engineering @ texas a&m university '28  
 🏠 based in houston, tx  
 [LinkedIn](https://www.linkedin.com/in/your-profile-url) | shrutiezhil@tamu.edu
+
 ---
 
 ## about me
-- Building projects that solve real-world problems  
-- Advocating for tech accessibility through education & outreach  
-- Combining engineering with social impact and sustainability
+i'm a computer engineering student passionate about building robust systems—from digital hardware to full-stack applications. i love combining technical problem-solving with real-world impact through accessible, scalable solutions.
+
+Currently seeking **Summer 2026 internships** in software engineering, hardware design, or embedded systems.
 
 ---
 
@@ -22,7 +23,3 @@
 **Certifications:** Microsoft Azure Fundamentals  
 
 ---
-
-## projects
-**Personalized Travel Planner**  
-- A web app using REST APIs + NoSQL to generate custom itineraries
