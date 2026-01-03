@@ -1,7 +1,7 @@
 # hi, i'm Shruti 👋
 
 🎓 computer engineering @ texas a&m university '28  
-🏠 based in houston, tx
+🏠 based in houston, tx  
 [LinkedIn](https://www.linkedin.com/in/your-profile-url) | shrutiezhil@tamu.edu
 ---
 
