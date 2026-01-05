@@ -9,17 +9,13 @@
 ## about me
 i'm a computer engineering student passionate about building robust systems—from digital hardware to full-stack applications. i love combining technical problem-solving with real-world impact through accessible, scalable solutions.
 
-Currently seeking **Summer 2026 internships** in software engineering, hardware design, or embedded systems.
+currently seeking **Summer 2026 internships** in software engineering, hardware design, or embedded systems.
 
 ---
 
 ## tech stack
-**Languages:** Python, Java, JavaScript, HTML/CSS, SQL, C++, Verilog 
+**Languages:** Python, Java, JavaScript, HTML/CSS, SQL, Verilog 
 
 **Currently Learning:** C++, React 
-
-**Tools:** REST APIs, Google Workspace, Microsoft 365  
-
-**Certifications:** Microsoft Azure Fundamentals  
 
 ---
