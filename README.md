@@ -22,5 +22,5 @@ currently seeking **Summer 2026 internships** in software engineering, hardware 
 
 ## featured projects
 
-### [digital design portfolio](./digital-design-projects)
+### [digital design portfolio](./digital-design)
 - hardware designs in Verilog implemented on FPGA: high-speed adder, FSM-based security system, and enhanced traffic controllers
