@@ -14,9 +14,9 @@ currently seeking **Summer 2026 internships** in software engineering, hardware 
 ---
 
 ## tech stack
-- **languages:** Python, Java, JavaScript, HTML/CSS, SQL, Verilog 
+- **languages:** Verilog, C++, Python, Java, JavaScript, Git/GitHub, Linux 
 - **tools:** Vivado 
-- **currently learning:** C++, React 
+- **currently learning:** React 
 
 ---
 
