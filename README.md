@@ -9,8 +9,6 @@
 ## about me
 i'm a computer engineering student passionate about building robust systems—from digital hardware to full-stack applications. i love combining technical problem-solving with real-world impact through accessible, scalable solutions.
 
-currently seeking **Summer 2026 internships** in hardware engineering, hardware design, embedded systems, and FPGA.
-
 ---
 
 ## tech stack
